@@ -1,4 +1,4 @@
- ##Bank Account Simulator CIIC 3015
+ Bank Account Simulator CIIC 3015
  
  Your assignment is to write a simple bank account simulator. The required behavior is as 
  follows: 
