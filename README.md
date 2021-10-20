@@ -1,6 +1,6 @@
  Bank Account Simulator CIIC 3015
  
- Your assignment is to write a simple bank account simulator. The required behavior is as 
+ The project is to write a simple bank account simulator. The required behavior is as 
  follows: 
  The first thing your simulator should do is ask for the name of a new account to create. 
  The second thing your simulator should do is ask for a starting balance. 
